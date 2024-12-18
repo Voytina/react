@@ -1,0 +1,22 @@
+.container{
+    
+
+    width: 300px;
+    background-color: rebeccapurple;
+    margin: 0 auto;
+    padding: 30px;
+    border: 2px solid black;
+    border-radius: 15px;
+
+    background-color: beige;
+
+}
+
+
+.avatar {
+
+    height: 100px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+}
